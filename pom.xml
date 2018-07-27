@@ -12,6 +12,7 @@
     <modules>
 
         <module>mr-01-word-count</module>
+        <module>mr-02-ncdc</module>
     </modules>
 
     <repositories>
